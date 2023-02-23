@@ -1,0 +1,40 @@
+ .html{
+    background-color: rgb(4, 16, 16);
+ }
+
+ #data-grid{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: auto;
+    padding: 16px;
+    border-radius: 5px;
+    margin: 16px;
+    background-color: #474a8d;
+ }
+  #data-grid h1 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: auto;
+    padding: 16px;
+    border-radius: 5px;
+    margin: 16px;
+    background-color: #77c96d;
+    font-size: 24px;
+    margin-top: 0;
+    font-family: sans-serif;
+  }
+  
+  #data-grid p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
+  #data-grid imgSrc{
+    box-shadow: 0cap;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+    width: auto;
+    padding: 16px;
+    margin: auto;
+    background-color: cadetblue;
+  }
